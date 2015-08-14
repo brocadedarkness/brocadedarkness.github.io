@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="https://brocadedarkness.github.io//"/>
-  <updated>2015-08-14T12:12:46.000Z</updated>
+  <updated>2015-08-14T14:09:19.000Z</updated>
   <id>https://brocadedarkness.github.io//</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[The Blog Is Back]]></title>
+    <link href="https://brocadedarkness.github.io/2015/08/14/The-Blog-Is-Back/"/>
+    <id>https://brocadedarkness.github.io/2015/08/14/The-Blog-Is-Back/</id>
+    <published>2015-08-14T14:09:54.000Z</published>
+    <updated>2015-08-14T14:09:19.000Z</updated>
+    <content type="html"><![CDATA[<p>Under sommaren pratade jag och en kamrat om att det var dags för bloggen att komma tillbaka. Det kändes helt enkelt rimligt. Själv har jag aldrig lyckats få någon rutin på bloggande, eller skrivande över huvud taget. Men första steget dit skulle ju vara att återigen skaffa en blog. Jag tänkte dessutom att jag kunde se det som kompetensutveckling att välja något annat roligare verktyg än Wordpress.</p>
+<p>Min önskelista  för ett bloggverktyg såg ut som följer:</p>
+<ul>
+<li>Ramverk i Node.js</li>
+<li>Färdigt, stabilt, dokumenterat och med ett hyfsat stort community</li>
+<li>Utbyggbart med plugins, möjlighet att skriva egna plugins</li>
+<li>Enkel deployment (helst via git) till molnbaserad plattform (helst gratis)</li>
+<li>Stöd för markdown</li>
+</ul>
+<p>Efter visst letande fastnade jag för två ramverk: <a href="http://ghost.org" target="_blank" rel="external">Ghost</a> och <a href="http://hexo.io" target="_blank" rel="external">Hexo</a>. Båda uppfyllde hela önskelistan. Efter en kopp kaffe bestämde jag mig för att börja med Hexo, eftersom Hexo hade en enkel lösning för deployment till Heroku, som jag använt tidigare och gillar. Hexo kändes också lite lättare och roligare.</p>
+<p>Hexo visade sig vara jätteenkelt att installera, bara att följa dokumentationen och tio minuter senare var allting uppe. Jag övergav snabbt idén att lägga bloggen på Heroku, eftersom jag upptäckte att det var ännu enklare att publicera den på <a href="http://pages.github.com" target="_blank" rel="external">Github Pages</a>. Allt detta gjort på en timme för snart två veckor sedan. Därefter krävdes lite putsande för att få bloggen att kännas som min. Detta kanske jag fortsätter med, jag funderar t.ex. på om jag borde ha en roligare layout, om jag borde lägga bloggen under ett eget domännamn, och om jag borde kalla den för någonting roligare än “Brocade Darkness.” Återkommer kanske till detta senare.</p>
+<p>Nästa steg är förstås att hitta på något att skriva. Även detta hoppas jag att jag kan återkomma till. Eventuella idéer kan <a href="https://twitter.com/intent/tweet?original_referer=http%3a%2f%2fwww.brocadedarkness.github.io&amp;text=@brocadedarkness+Jag+älskar+din+blogg+och+vill+att+du+ska+skriva+något+om+&amp;tw_p=tweetbutton" target="_blank" rel="external">skickas till mig på twitter</a> för jag känner mig helt blank.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Under sommaren pratade jag och en kamrat om att det var dags för bloggen att komma tillbaka. Det kändes helt enkelt rimligt. Själv har ja]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
